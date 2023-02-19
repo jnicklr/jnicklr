@@ -7,7 +7,7 @@
   <img width="41%" height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnicklr&layout=compact&hide_progress=false&hide_border=true&title_color=98FB98&text_color=98FB98&bg_color=0d1117" />
 </div>
 
-### Main skills:
+### Conhecimento:
 ![C](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&logoColor=1E90FF&labelColor=0D1117)&nbsp; 
 
 ### Querendo aprender:
