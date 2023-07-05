@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0984e3&height=90&section=header" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&weight=500&color=00cec9&size=20&center=true&vCenter=true&width=1000&lines=print("Bem+Vindo!"))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&weight=500&color=00cec9&size=20&center=true&vCenter=true&width=1000&lines=print("Bem-vindo!"))](https://git.io/typing-svg)
 
 
 <div align='center'>
@@ -8,7 +8,7 @@
 <h2 align="center">Status</h2>
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jnicklr&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00cec9&icon_color=00cec9&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jnicklr&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00cec9&icon_color=00cec9&include_all_commits=true&count_private=false" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnicklr&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00cec9&icon_color=00cec9"/>
 </div>
 
