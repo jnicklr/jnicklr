@@ -8,7 +8,7 @@
 <h2 align="center">Status</h2>
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jnicklr&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00cec9&icon_color=00cec9&include_all_commits=true&count_private=false" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jnicklr&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00cec9&icon_color=00cec9&include_all_commits=true&count_private=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnicklr&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00cec9&icon_color=00cec9"/>
 </div>
 
