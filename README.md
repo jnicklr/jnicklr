@@ -29,9 +29,9 @@
 
 <p align="center">
   <div style="display: inline_block">
-    <a href="#"><img src="https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=00cec9"></a>
     <a href="#"><img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=00cec9"></a>
-    <a href="#"><img src="https://img.shields.io/badge/CSHARP-0D1117?style=for-the-badge&logo=csharp&logoColor=00cec9"></a>
+    <a href="#"><img src="https://img.shields.io/badge/JAVASCRIPT-0D1117?style=for-the-badge&logo=javascript&logoColor=00cec9"></a>
+    <a href="#"><img src="https://img.shields.io/badge/REACT-0D1117?style=for-the-badge&logo=react&logoColor=00cec9"></a>
   </div>
 </p>
 <br>
@@ -40,10 +40,10 @@
 
 <p align="center">
   <div style="display: inline_block">
+    <a href="#"><img src="https://img.shields.io/badge/CSHARP-0D1117?style=for-the-badge&logo=csharp&logoColor=00cec9"></a>
     <a href="#"><img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=00cec9"></a>
-    <a href="#"><img src="https://img.shields.io/badge/JAVASCRIPT-0D1117?style=for-the-badge&logo=javascript&logoColor=00cec9"></a>
-    <a href="#"><img src="https://img.shields.io/badge/REACT-0D1117?style=for-the-badge&logo=react&logoColor=00cec9"></a>
     <a href="#"><img src="https://img.shields.io/badge/DOCKER-0D1117?style=for-the-badge&logo=docker&logoColor=00cec9"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=00cec9"></a>
   </div>
 </p>
 <br>
