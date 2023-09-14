@@ -8,8 +8,8 @@
 <h2 align="center">Status</h2>
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jnicklr&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00cec9&icon_color=00cec9&include_all_commits=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnicklr&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00cec9&icon_color=00cec9"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jnicklr&show_icons=true&theme=dracula&hide_border=false&bg_color=0D1117&title_color=00cec9&icon_color=00cec9&include_all_commits=true&count_private=false" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnicklr&layout=compact&theme=dracula&hide_border=false&bg_color=0D1117&title_color=00cec9&icon_color=00cec9"/>
 </div>
 
 <br>
@@ -32,6 +32,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=00cec9"></a>
     <a href="#"><img src="https://img.shields.io/badge/JAVASCRIPT-0D1117?style=for-the-badge&logo=javascript&logoColor=00cec9"></a>
     <a href="#"><img src="https://img.shields.io/badge/REACT-0D1117?style=for-the-badge&logo=react&logoColor=00cec9"></a>
+    <a href="#"><img src="https://img.shields.io/badge/TYPESCRIPT-0D1117?style=for-the-badge&logo=typescript&logoColor=00cec9"></a>
   </div>
 </p>
 <br>
