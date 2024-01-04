@@ -31,10 +31,10 @@
 
 <p align="center">
   <div style="display: inline_block">
-    <a href="#"><img src="https://img.shields.io/badge/REACT-0D1117?style=for-the-badge&logo=react&logoColor=00cec9"></a>
-    <a href="#"><img src="https://img.shields.io/badge/TYPESCRIPT-0D1117?style=for-the-badge&logo=typescript&logoColor=00cec9"></a>
     <a href="#"><img src="https://img.shields.io/badge/CSHARP-0D1117?style=for-the-badge&logo=csharp&logoColor=00cec9"></a>
     <a href="#"><img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=.net&logoColor=00cec9"></a>
+    <a href="#"><img src="https://img.shields.io/badge/REACT-0D1117?style=for-the-badge&logo=react&logoColor=00cec9"></a>
+    <a href="#"><img src="https://img.shields.io/badge/TYPESCRIPT-0D1117?style=for-the-badge&logo=typescript&logoColor=00cec9"></a>
   </div>
 </p>
 <br>
