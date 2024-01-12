@@ -21,9 +21,9 @@
     <a href="#"><img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00cec9"></a>
     <a href="#"><img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00cec9"></a>
     <a href="#"><img src="https://img.shields.io/badge/JAVASCRIPT-0D1117?style=for-the-badge&logo=javascript&logoColor=00cec9"></a>
+    <a href="#"><img src="https://img.shields.io/badge/CSHARP-0D1117?style=for-the-badge&logo=csharp&logoColor=00cec9"></a>
     <a href="#"><img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00cec9"></a>
     <a href="#"><img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=00cec9"></a>
-    <a href="#"><img src="https://img.shields.io/badge/CSHARP-0D1117?style=for-the-badge&logo=csharp&logoColor=00cec9"></a>
   </div>
 </p>
 <br>
