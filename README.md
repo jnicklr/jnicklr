@@ -50,6 +50,9 @@
   <div style="display: inline_block">
     <a href="#"><img src="https://img.shields.io/badge/DOCKER-0D1117?style=for-the-badge&logo=docker&logoColor=00cec9"></a>
     <a href="#"><img src="https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=00cec9"></a>
+    <a href="#"><img src="https://img.shields.io/badge/RUST-0D1117?style=for-the-badge&logo=rust&logoColor=00cec9"></a>
+    <a href="#"><img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00cec9"></a>
+    <a href="#"><img src="https://img.shields.io/badge/ELECTRON-0D1117?style=for-the-badge&logo=electron&logoColor=00cec9"></a>
   </div>
 </p>
 <br>
